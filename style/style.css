@@ -1,0 +1,28 @@
+body{
+	text-align: center;
+	margin: 15%;
+}
+button{
+	width: auto;
+	height: 50px;
+	color: #fff;
+	background: #3d6bf1;
+	font-size: 20px;
+	font-weight: bold;
+	border: none;
+	cursor: pointer;
+	padding: 10px 20px;
+}
+#number{
+	padding: 10px;
+	font-size: 20px;
+	color: cornflowerblue;
+	font-weight: bolder;
+}
+.alert{
+	line-height: 25px;
+	font-size: 20px;
+	word-spacing: 5px;
+	font-weight: 600;
+	color: red;
+}
